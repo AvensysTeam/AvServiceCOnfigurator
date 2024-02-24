@@ -1,0 +1,6 @@
+{
+    "COMPLETED": "completed",
+    "MISSING": "missing",
+    "IGNORED": "Ignored",
+    "ABORTED": "Aborted"
+}

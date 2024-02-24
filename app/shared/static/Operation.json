@@ -1,0 +1,10 @@
+{
+    "FSC": "FSC",
+    "CAF": "CAF",
+    "CAP": "CAP",
+    "CO2": "CO2",
+    "RH": "RH",
+    "VOC": "VOC",
+    "TEMPERATURE": "Temperature",
+    "OTHERSETTINGS": "OtherSettings"
+}
